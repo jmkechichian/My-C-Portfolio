@@ -15,7 +15,7 @@ I hope you enjoy exploring my projects as much as I enjoyed developing them. If 
 
 * [Linkedin] https://www.linkedin.com/in/jmkechichian/
 
-## Instalacion
+## Installation
 
 Just load the file you want to test from a C++ compiler
 
