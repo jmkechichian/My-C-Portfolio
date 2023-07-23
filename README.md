@@ -17,7 +17,7 @@ I hope you enjoy exploring my projects as much as I enjoyed developing them. If 
 
 ## Instalacion
 
-Solamente desde un compilador de C++
+Just load the file you want to test from a C++ compiler
 
 ## Contact
 
