@@ -1,3 +1,7 @@
+/*This is a work carried out for the technologist, 
+which consisted of making a simple code for the 2048 game, the qualification of this work was approved*/
+
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
